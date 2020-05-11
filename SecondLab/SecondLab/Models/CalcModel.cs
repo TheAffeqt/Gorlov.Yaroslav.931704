@@ -40,11 +40,11 @@ namespace SecondLab.Models
                 case "*":
                     result = value1 * value2;
                     break;
-                
+
                 case "/":
                     result = value1 / value2;
                     break;
-                
+
                 default:
                     result = 0;
                     break;

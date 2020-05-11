@@ -43,43 +43,48 @@ namespace SecondLab.Controllers
             return View();
         }
 
+        protected double Calculate(double value1, double value2, string operation)
+        {
+            double result;
+
+            switch (operation)
+            {
+                case "+":
+                    result = value1 + value2;
+                    break;
+
+                case "-":
+                    result = value1 - value2;
+                    break;
+
+                case "*":
+                    result = value1 * value2;
+                    break;
+
+                case "/":
+                    result = value1 / value2;
+                    break;
+
+                default:
+                    result = 0;
+                    break;
+            }
+
+            return result;
+        }
+
         public IActionResult CountOne()
         {
             if (Request.Method.Equals("POST", StringComparison.OrdinalIgnoreCase))
             {
-                int value = Convert.ToInt32(this.Request.Form["input1"]);
+                int value1 = Convert.ToInt32(this.Request.Form["input1"]);
                 int value2 = Convert.ToInt32(this.Request.Form["input2"]);
                 string operation = this.Request.Form["operation"];
 
-                double result;
-
-                switch (operation)
-                {
-                    case "+":
-                        result = value + value2;
-                        break;
-                    
-                    case "-":
-                        result = value - value2;
-                        break;
-                    
-                    case "*":
-                        result = value * value2;
-                        break;
-                    
-                    case "/":
-                        result = value / value2;
-                        break;
-                    
-                    default:
-                        result = 0;
-                        break;
-                }
-
-                ViewBag.input1 = value;
+                ViewBag.input1 = value1;
                 ViewBag.input2 = value2;
                 ViewBag.operation = operation;
-                ViewBag.result = result;
+                ViewBag.result = Calculate(value1, value2, operation);
 
             }
 
@@ -89,43 +94,14 @@ namespace SecondLab.Controllers
         [HttpPost]
         public IActionResult CountTwo()
         {
-            if (Request.Method.Equals("POST", StringComparison.OrdinalIgnoreCase))
-            {
-                int value1 = Convert.ToInt32(this.Request.Form["input1"]);
-                int value2 = Convert.ToInt32(this.Request.Form["input2"]);
-                string operation = this.Request.Form["operation"];
+            int value1 = Convert.ToInt32(this.Request.Form["input1"]);
+            int value2 = Convert.ToInt32(this.Request.Form["input2"]);
+            string operation = this.Request.Form["operation"];
 
-                double result;
-
-                switch (operation)
-                {
-                    case "+":
-                        result = value1 + value2;
-                        break;
-                    
-                    case "-":
-                        result = value1 - value2;
-                        break;
-                    
-                    case "*":
-                        result = value1 * value2;
-                        break;
-                    
-                    case "/":
-                        result = value1 / value2;
-                        break;
-                    
-                    default:
-                        result = 0;
-                        break;
-                }
-
-                ViewBag.input1 = value1;
-                ViewBag.input2 = value2;
-                ViewBag.operation = operation;
-                ViewBag.result = result;
-
-            }
+            ViewBag.input1 = value1;
+            ViewBag.input2 = value2;
+            ViewBag.operation = operation;
+            ViewBag.result = Calculate(value1, value2, operation);
 
             return View("Result");
         }
@@ -133,38 +109,13 @@ namespace SecondLab.Controllers
         [HttpPost]
         public IActionResult CountThree(int input1, int input2, string operation)
         {
-            double result;
-
-            switch (operation)
-            {
-                case "+":
-                    result = input1 + input2;
-                    break;
-                
-                case "-":
-                    result = input1 - input2;
-                    break;
-                
-                case "*":
-                    result = input1 * input2;
-                    break;
-                
-                case "/":
-                    result = input1 / input2;
-                    break;
-                default:
-                    result = 0;
-                    break;
-            }
-
             ViewBag.input1 = input1;
             ViewBag.input2 = input2;
             ViewBag.operation = operation;
-            ViewBag.result = result;
+            ViewBag.result = Calculate(input1, input2, operation);
 
             return View("Result");
         }
-
 
         [HttpPost]
         public IActionResult CountFour(CalcModel calcModel)
