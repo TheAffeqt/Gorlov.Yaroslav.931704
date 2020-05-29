@@ -1,0 +1,138 @@
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.deps.json
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.runtimeconfig.json
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.runtimeconfig.dev.json
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.dll
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.pdb
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.Views.dll
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.Views.pdb
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.csprojAssemblyReference.cache
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorAssemblyInfo.cache
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorAssemblyInfo.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.AssemblyInfoInputs.cache
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.AssemblyInfo.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.TagHelpers.input.cache
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.TagHelpers.output.cache
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorCoreGenerate.cache
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\index.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\quiz.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\quizResult.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorTargetAssemblyInfo.cache
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorTargetAssemblyInfo.cs
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.Views.pdb
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.dll
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.pdb
+C:\Users\Настя\Documents\GitHub\Web\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.csproj.CopyComplete
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.deps.json
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.runtimeconfig.json
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.runtimeconfig.dev.json
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.dll
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.pdb
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.Views.dll
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.Views.pdb
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.csprojAssemblyReference.cache
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorAssemblyInfo.cache
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorAssemblyInfo.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.AssemblyInfoInputs.cache
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.AssemblyInfo.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.TagHelpers.input.cache
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.TagHelpers.output.cache
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorCoreGenerate.cache
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\index.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\quiz.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\quizResult.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorTargetAssemblyInfo.cache
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorTargetAssemblyInfo.cs
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.Views.pdb
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.dll
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.pdb
+C:\Загрузки\Nasya Web\Bekisheva.Anastasia.931703.labs-master\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.deps.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.dll
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.pdb
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.Views.dll
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\bin\Debug\netcoreapp2.1\Web3.Views.pdb
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.TagHelpers.input.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.TagHelpers.output.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorCoreGenerate.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\index.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\quiz.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\quizResult.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.RazorTargetAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.Views.pdb
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.dll
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.pdb
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\Web3\Web3\obj\Debug\netcoreapp2.1\Web3.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\bin\Debug\netcoreapp2.1\Web3.deps.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\bin\Debug\netcoreapp2.1\Web3.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\bin\Debug\netcoreapp2.1\Web3.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\bin\Debug\netcoreapp2.1\Web3.dll
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\bin\Debug\netcoreapp2.1\Web3.pdb
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\bin\Debug\netcoreapp2.1\Web3.Views.dll
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\bin\Debug\netcoreapp2.1\Web3.Views.pdb
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.RazorAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.RazorAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.TagHelpers.input.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.TagHelpers.output.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.RazorCoreGenerate.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\index.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\quiz.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Quiz\quizResult.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.RazorTargetAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.Views.pdb
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.dll
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.pdb
+C:\Users\User\Documents\GitHub\Gorlov.Yaroslav.931704\ThirdLab\Web3\obj\Debug\netcoreapp2.1\Web3.csproj.CopyComplete
