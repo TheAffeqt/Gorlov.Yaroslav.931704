@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "DropDownList";
+    if (ViewBag.DropDownList == null)
+    {
+        <form class="row">
+            <div class="col-md-3">
+                <h2>DropDownList</h2>
+                <br />
+                <h3>Month</h3>
+                <select name="DropDownList" class="custom-select mr-sm-2" id="inlineFormCustomSelect">
+                    <option selected value="January">January</option>
+                    <option value="Febuary">Febuary</option>
+                    <option value="March">March</option>
+                    <option value="April">April</option>
+                    <option value="May">May</option>
+                    <option value="June">June</option>
+                    <option value="July">July</option>
+                    <option value="August">August</option>
+                    <option value="September">September</option>
+                    <option value="October">October</option>
+                    <option value="November">November</option>
+                    <option value="December">December</option>
+                </select><br />
+                <br />
+                <button formmethod="post" formaction="~/Controls/Save_DropDownList" class="btn btn-primary col-md-auto" style="display: inline" type="submit">Save</button>
+            </div>
+        </form>
+    }
+    else
+    {
+        <h2>DropDownList</h2>
+        <br />
+        <h3><b>Month:</b></h3>
+        <h3>@ViewBag.DropDownList</h3>
+    }
+}
