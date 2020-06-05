@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Lab3.Models;
+using Web3.Models;
 
-namespace Lab3.Controllers
+namespace Web3.Controllers
 {
     public class QuizController : Controller
     {
@@ -20,19 +20,29 @@ namespace Lab3.Controllers
 
         public IActionResult Quiz()
         {
-            ViewBag.numb1 = rand.Next(10);
-            ViewBag.numb2 = rand.Next(10);
+            if (ModelState.IsValid)
+            {
+                ViewBag.numb1 = rand.Next(10);
+                ViewBag.numb2 = rand.Next(10);
+                return View();
+            }
+
             return View();
         }
 
         public IActionResult QuizResult()
         {
-            ViewBag.ListResult = quiz.Results;
-            ViewBag.RightAnswersCount = quiz.rightAnswers;
-            ViewBag.AnswersCount = quiz.count;
+            if (ModelState.IsValid)
+            {
+                ViewBag.ListResult = quiz.Results;
+                ViewBag.RightAnswersCount = quiz.rightAnswers;
+                ViewBag.AnswersCount = quiz.count;
+                return View();
+            }
+
             return View();
         }
-
+         
        public void QuizLogic (string value1, string value2, string answer)
        {
             int _value1 = Convert.ToInt32(value1);
